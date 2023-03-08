@@ -208,3 +208,4 @@
 ### Other
 - [55-跳跃游戏](https://github.com/scliang-strive/leetcode/blob/master/55-%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F/55-%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.go)
 - [45-跳跃游戏 II](https://github.com/scliang-strive/leetcode/blob/master/45-%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F%20II/45-%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F%20II.go)
+- [面试题 05.02-二进制数转字符串](https://github.com/scliang-strive/leetcode/blob/master/%E9%9D%A2%E8%AF%95%E9%A2%98%2005.02-%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2/%E9%9D%A2%E8%AF%95%E9%A2%98%2005.02-%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.go)
