@@ -50,6 +50,8 @@
 
 #### 区间集合
 - [986-区间列表的交集](https://github.com/scliang-strive/leetcode/blob/master/986-%E5%8C%BA%E9%97%B4%E5%88%97%E8%A1%A8%E7%9A%84%E4%BA%A4%E9%9B%86/986-%E5%8C%BA%E9%97%B4%E5%88%97%E8%A1%A8%E7%9A%84%E4%BA%A4%E9%9B%86.go)
+- [2373-矩阵中的局部最大值](https://github.com/scliang-strive/leetcode/blob/master/2373-%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%9A%84%E5%B1%80%E9%83%A8%E6%9C%80%E5%A4%A7%E5%80%BC/2373-%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%9A%84%E5%B1%80%E9%83%A8%E6%9C%80%E5%A4%A7%E5%80%BC.go)
+
 
 #### 滑动窗口
 - [76-最小覆盖子串](https://github.com/scliang-strive/leetcode/blob/master/76-%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2/76-%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2.go)
