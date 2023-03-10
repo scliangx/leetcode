@@ -208,6 +208,9 @@
 ### hash表
 - [1487-保证文件名唯一](https://github.com/scliang-strive/leetcode/blob/master/1487-%E4%BF%9D%E8%AF%81%E6%96%87%E4%BB%B6%E5%90%8D%E5%94%AF%E4%B8%80/1487-%E4%BF%9D%E8%AF%81%E6%96%87%E4%BB%B6%E5%90%8D%E5%94%AF%E4%B8%80.go)
 
+### 数学
+- [9-回文数](https://github.com/scliang-strive/leetcode/blob/master/9-%E5%9B%9E%E6%96%87%E6%95%B0/9-%E5%9B%9E%E6%96%87%E6%95%B0.go)
+
 ### Other
 - [55-跳跃游戏](https://github.com/scliang-strive/leetcode/blob/master/55-%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F/55-%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.go)
 - [45-跳跃游戏 II](https://github.com/scliang-strive/leetcode/blob/master/45-%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F%20II/45-%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F%20II.go)
