@@ -211,6 +211,9 @@
 ### 数学
 - [9-回文数](https://github.com/scliang-strive/leetcode/blob/master/9-%E5%9B%9E%E6%96%87%E6%95%B0/9-%E5%9B%9E%E6%96%87%E6%95%B0.go)
 
+### 字符串
+- [14-最长公共前缀](https://github.com/scliang-strive/leetcode/blob/master/14-%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80/14-%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80.go)
+
 ### Other
 - [55-跳跃游戏](https://github.com/scliang-strive/leetcode/blob/master/55-%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F/55-%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.go)
 - [45-跳跃游戏 II](https://github.com/scliang-strive/leetcode/blob/master/45-%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F%20II/45-%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F%20II.go)
