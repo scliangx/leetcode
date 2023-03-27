@@ -20,6 +20,7 @@ func generate(nums []int, start, end int) *TreeNode {
 	if start > end {
 		return nil
 	}
+	// 每一次以右边中间为根节点
 	mid := (start + end + 1) / 2
 	root := &TreeNode{Val: nums[mid]}
 	root.Left = generate(nums, start, mid-1)
