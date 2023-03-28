@@ -9,10 +9,10 @@ type TreeNode struct {
 // leetcode 199-二叉树的右视图
 // bfs
 func rightSideView(root *TreeNode) []int {
-	if root == nil {
-		return []int{}
-	}
 	res := []int{}
+	if root == nil {
+		return res
+	}
 	q := []*TreeNode{root}
 	for len(q) > 0 {
 		size := len(q)
