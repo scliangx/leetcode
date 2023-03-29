@@ -21,7 +21,7 @@ func dfs(root *TreeNode, sum *int) {
 		return
 	}
 	if root.Left != nil && root.Left.Left == nil && root.Left.Right == nil {
-		(*sum) += root.Left.Val
+		*sum += root.Left.Val
 	}
 	dfs(root.Left, sum)
 	dfs(root.Right, sum)
